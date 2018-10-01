@@ -2,5 +2,6 @@ console.log(10);
 
 console.log('hello');
 y = 30;
+z = 2;
 
 
